@@ -1,6 +1,6 @@
 package com.jenkinspractice.Test;
 
-public class JenkinsPraciceTest {
+public class JenkinsPracticeTest {
 	
 	public void jenkinsPracticeTest()
 	{
